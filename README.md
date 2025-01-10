@@ -12,7 +12,7 @@ Check out my portfolio [here](https://www.github.com/tsj7ww/portfolio#readme).
 
 ### Side Projects
 
-🤖 AutoML package
-💻 Full stack web dev
-☕ Making money
-📫 How to reach me: [@trevor-s-jordan](https://linkedin.com/in/trevor-s-jordan)
+🤖 AutoML package 
+💻 Full stack web dev 
+☕ Making money 
+📫 How to reach me: [@trevor-s-jordan](https://linkedin.com/in/trevor-s-jordan) 
