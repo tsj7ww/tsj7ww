@@ -9,4 +9,4 @@ I'm a passionate analyst who loves modeling systems and behaviors with code. I c
 🤖 AutoML package  
 💻 Full stack web dev  
 ☕ Work  
-📫 How to reach me: [@trevor-s-jordan](https://linkedin.com/in/trevor-s-jordan) 
+📫 [@trevor-s-jordan](https://linkedin.com/in/trevor-s-jordan) 
