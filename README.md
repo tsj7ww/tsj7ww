@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Trevor
 
 <p align="center">
-  <img src="./assets/profile_pic.png" alt="Profile Picture" width="75" height="75" style="border-radius: 50%;">
+  <img src="./assets/profile_pic.png" alt="Profile Picture" width="100" height="100" style="border-radius: 50%;">
 </p>
 
 ## About Me
