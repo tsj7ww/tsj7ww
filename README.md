@@ -10,4 +10,4 @@ I'm a passionate analyst who loves modeling systems and behaviors with code. I c
 💻 Full stack web dev  
 ☕ Work  
   
-📫 [@trevor-s-jordan](https://linkedin.com/in/trevor-s-jordan) 
+📫 Reach out: [@trevor-s-jordan](https://linkedin.com/in/trevor-s-jordan) 
